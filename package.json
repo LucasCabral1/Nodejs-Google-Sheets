@@ -1,0 +1,14 @@
+{
+  "name": "prova-estagio-back-end",
+  "version": "1.0.0",
+  "description": "Um projeto para receber dados de uma planilha do google sheets e enviar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Cabral Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.1.15"
+  }
+}
