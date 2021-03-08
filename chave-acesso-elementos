@@ -1,0 +1,18 @@
+_cokwr - nome
+_cpzh4 - faltas
+_cre1l - P1
+_chk2m - P2
+_ciyn3 - P3
+
+/* const faltas = linhas.forEach(row => {
+        console.log(row._cpzh4)
+    })
+    const P1 = linhas.forEach(row => {
+        console.log(row._cre1l)
+    })
+    const P2 = linhas.forEach(row => {
+        console.log(row._chk2m)
+    })
+    const P3 = linhas.forEach(row => {
+        console.log(row._ciyn3)
+    })*/

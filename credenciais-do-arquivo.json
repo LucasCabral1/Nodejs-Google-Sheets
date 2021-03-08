@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prova-estagio-back-end",
+  "private_key_id": "c0c0befba1f006c654c1abbe4d4396e191150b80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+Pk+EWbbyamoN\nzq8+0mFlCkLfca7qGIGTWpbk++X3YrQb5DpwxbnJET7P0iJs4/Kb5Z3S++zn4DeR\nMgOR+hffIS0RYEdvQUjQ69ruLBX1ImpCFDGYW7BFhzDpS9eNRImaeIWVlOoCFxZU\nSEWWT/m4RYPOs1npH5cWRJ8JvPLYMO58bpajnlW5sqpm8BdMXMwgq2gKx9FkO/nz\neyOGDEuNY1x6wWUjyS2UBQpQDgtQCqQL5PNgyX8ftt7MXO6zEnKbHu2rQdrMVLgt\nVq1QLl04aKGm92YFRlusMXQceLNyzqDkFUQvWnvnskI6ljE63frvJekefele6svG\nc4W451n3AgMBAAECggEAGOZLlAqwpjkwA6SfTT1N4A1KxAy7abT8E07nsbVtMPGA\nmfyc0DEg6DnTRcdpbWUcVjPkcek6kFLJaGiVDQsgYA+V4tCo04fw7DSiep/XM+Fl\nlPEoWJpPj5oVLcPDxPVJKVLy8P6vmMcay2c2LGlFSaKs5hCVXldzIp1SpNH6hY8Q\nK0WHAKADivm8VMt76won6Ldy0BFT3RQR+6sR0J5+Q4s6hvPVBtVv8Si/mr0Bpgo7\nTunjRjeuwPN3ZmEMT5NyjTt4NJqPumtljmX2Pgf9M8YnWPHaqcYxVvBiwqHDcDKJ\nb1qkzl90R1JXPBskTFrfmb7e4Qn6mHXY5nMu1/MbcQKBgQDj6CHVoPUr2POJXHdi\n5kZ8BVQfvFQTgPirVeSQ+cC45M/ISLraqdu3Ti+nzvmTwv4EEGJeklLZJVUpCD+U\nkCz1R8byAqfCWfsxgCEHUeKkYzq4noOkoNCFOPovyZUgrf8RTspiuIyMeantqRdK\nMrJD9x1ZPB+V3wY8skdhnhc5rwKBgQDVsaqWlhMO8rmPDa4s7UhVpt2Hc/Fw1fvg\nWKecBKaS2K6JZWXbOg41ZuQdhyj4CDaJZ8gdSMd/yZasoNCKW2j7ihk8Y920TCye\nv2jSxVrL81T+W/jis1W4nHMst0WP56P8/30JDEUlecr48OOJmjeDxrm5ECKMNjZa\nZ07aFdceOQKBgFcaBaxWurzKSrFJtJsItRF7G96RJHTbyq34wsUhnqVLVZoPKdKe\nLknNSOtScBIn6Nr2xBGuzJkO6pAnBd2qiHQpvYAKwcDGkPknJfhdNEhtYCjk9Bz8\nFRWFZCDVYvg9Z4le2nyGWbjqWqZpBGyoGXdeP0o2bz/hH8ocvKkzOV8jAoGABRYt\nkVgRLBHrCNSyiK89QYyvSUIhRSZS0IxLsRMLRAOUZADd49IF9I92bp2BBCZt5edq\nhAfvd8M8qu9JB4IVhadL4nweEuSdS0oTHLFF8ATiyQs3aW4LZFGVDENwjHRfGu6Z\n81UvcCzt/+77+5KIL8LTOOyBZgUEVjKPVfGfJUECgYA6R3PACEtPEP0Fwr8cTqvc\nBBxBOvVKAhPGRLY9SJ5PB13o6EtM5lMzLfuVJXEiH9vkU+bIwklwb6/pEwkhgxmV\nhGl5qokwp4CfS3YXT9csd+O36UW/7O0Z7aD+efDmHZZTjv0oqmEu4vGm8vMwoUIz\nXovAasuZ5d8XknsPD9Mx2Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "editor@prova-estagio-back-end.iam.gserviceaccount.com",
+  "client_id": "115808804997511190105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor%40prova-estagio-back-end.iam.gserviceaccount.com"
+}

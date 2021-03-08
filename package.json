@@ -1,0 +1,24 @@
+{
+  "name": "estagio-back-end",
+  "version": "1.0.0",
+  "description": "Projeto back end para acessar planilhas",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasCabral1/Prova-Estagio-back-end-Lucas-Cabral.git"
+  },
+  "author": "Lucas Cabral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasCabral1/Prova-Estagio-back-end-Lucas-Cabral/issues"
+  },
+  "homepage": "https://github.com/LucasCabral1/Prova-Estagio-back-end-Lucas-Cabral#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.7",
+    "nodemon": "^2.0.7"
+  }
+}
